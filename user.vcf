@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lilie;Weaver;;;
-FN: Weaver  Lilie 
+N:Clive;Coombes;;;
+FN: Clive  Coombes 
 ORG:AV8 Group;
-TITLE:CTO
-EMAIL;type=INTERNET;type=WORK;type=pref:lilie.weaver@fly-av8.com
-TEL;type=WORK;type=VOICE:07825374080
+TITLE:Director of Strategic Partnerships
+EMAIL;type=INTERNET;type=WORK;type=pref:clive.coombes@av8-group.com
+TEL;type=WORK;type=VOICE:07380808999
 item2.URL;type=pref:av8-group.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
